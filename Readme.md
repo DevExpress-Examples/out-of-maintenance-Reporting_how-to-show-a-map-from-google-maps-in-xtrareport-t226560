@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to show a map from Google Maps in XtraReport
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t226560)**
+**[[Run Online]](https://codecentral.devexpress.com/t226560/)**
 <!-- run online end -->
 
 
